@@ -12,5 +12,5 @@ function johnLennonFacts(factsArray) {
     factsArray[i] = factsArray[i] + "!!!";
     i++;
   }
-  return excitedArray;
+  return factsArray;
 }
